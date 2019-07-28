@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import Api from '@/utils/API'
-import { createSecureServer } from 'http2';
 
 Vue.use(Vuex)
 
